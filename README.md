@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Inyoung-Develop&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=InyoungDev&fontSize=90)
 
 
 ## 🛠️*Stack*🛠️
@@ -19,3 +19,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiy0315&theme=shadow_green&show_icons=true)
 <a href="https://github.com/kiy0315"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiy0315&layout=compact&theme=nord&hide_border=true" /></a> 
+
+#### 🌝Me 
+<a href="https://velog.io/@inyoung0315/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://www.notion.so/1913d01698b78059975ed919366d06af" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://mail.google.com/mail" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
